@@ -5,7 +5,7 @@
 * Email: kryptomaster2050@gmail.com
 * GitHub: kryptomaster2050
 ## **About Me** 
-I am an ambitious and hardworking individual, always trying to do the best job. I have experience working as part of a team and individually. I understand the importance of being interactive and enjoy communicating with others for the benefit of the company. ====
+I am an ambitious and hardworking individual, always trying to do the best job. I have experience working as part of a team and individually. I understand the importance of being interactive and enjoy communicating with others for the benefit of the company. 
 ## **Skills** 
 * JS
 * HTML
@@ -13,8 +13,7 @@ I am an ambitious and hardworking individual, always trying to do the best job. 
 ## **Code Example** 
 ```
 function sum(a, b) {
-  return a + b;
-}
+  return a + b;}
 let result = sum(1, 2);
 alert( result );
 ```
